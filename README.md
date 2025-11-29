@@ -1,8 +1,7 @@
 # R1_unidad2_ejerciciospracticos
 Fernando Miguel Olvera juárez 1224100597
 
-Hola,Profe aqui estan todos mis trabajos para el tema de mi R1,le dejo mis ejercicios practicos ya que fue lo que me pidio de tarea, asi como los trabajos que realize en asecorias
-
+Hola, profesor. Le comparto mis trabajos correspondientes al tema de la R1. Incluyo los ejercicios prácticos que solicitó como tarea, así como las actividades que realicé durante las asesorías.
 ## Ejercicios Practicos
 
 | Ejercicios                     | Código Java | Descripción |
