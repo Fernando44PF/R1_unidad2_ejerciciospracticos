@@ -16,7 +16,7 @@ Hola,Profe aqui estan todos mis trabajos para el tema de mi R1,le dejo mis ejerc
 
 | Trabajo | Evidencia |
 |-----------|-----------|
-| Práctica 01 Listas Simples Enlazadas   |   [enlaces]https://drive.google.com/drive/folders/120uXo0NJdNmdNq9Z81rFuTVMqhZuzCET?usp=drive_link  |
-| Práctica 02 Listas Doblemente Enlazadas   |  [enlaces]https://drive.google.com/drive/folders/19qqssNKSvEUH1ONgi_-o9CaT8COoDfA5?usp=sharing  |
+| Práctica 01 Listas Simples Enlazadas   |   [enlaces](https://drive.google.com/drive/folders/120uXo0NJdNmdNq9Z81rFuTVMqhZuzCET?usp=drive_link)  |
+| Práctica 02 Listas Doblemente Enlazadas   |  [enlaces](https://drive.google.com/drive/folders/19qqssNKSvEUH1ONgi_-o9CaT8COoDfA5?usp=sharing)  |
 
 
